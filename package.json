@@ -1,0 +1,17 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-nightly.650"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.3.16",
+    "graphql": "^15.5.0",
+    "react": "^17.0.2"
+  },
+  "scripts": {
+    "dev": "parcel ./src/index.html"
+  }
+}
